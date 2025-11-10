@@ -1,2 +1,1 @@
-24살 컴퓨터 전공하는 이세민입니다 
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C2F78E&width=435&lines=24%EC%82%B4%EC%9D%98+%EC%9D%B4%EC%84%B8%EB%AF%BC%EC%9D%B4%EC%98%AC%EC%8B%9C%EB%8B%A4.)](https://git.io/typing-svg)
